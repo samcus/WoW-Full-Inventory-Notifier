@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: Full Inventory Notifier
+## Author: Samuel Anthony Custer
+## Notes: Full Inventory Notifier tells nearby players when your invetory is full and that you need a moment to destroy items to make room.
+## Version: 0.0.1
+
+say.lua
+main.lua
